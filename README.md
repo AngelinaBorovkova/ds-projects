@@ -91,4 +91,4 @@ imbalanced-learn, plotly, yellowbrick, scipy
 
 ## 📞 Контакты
 Ангелина Боровкова  
-tg @angborovkova 
+t.me/angborovkova
